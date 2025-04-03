@@ -1,4 +1,4 @@
-
+/*11111
 /**
  * This class represents a comment left for a sales item on an online sales site.
  * A comment consists of a comment text, a rating, and an author name. Other users
